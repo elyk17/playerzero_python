@@ -1,6 +1,6 @@
 import sys
 sys.path.append(sys.path[0] + "/....")
-sys.path.insert(0,"C:\\Users\\kylem\\OneDrive\\Documents\\pythonProjects\\kylepom\\")
+sys.path.insert(0,"C:\\Users\\kylem\\OneDrive\\Documents\\GitHub\\playerzero_python")
 from TestBase.WebDriverSetup import WebDriverSetup
 from PageObject.Pages.Home_Page import Home
 import unittest

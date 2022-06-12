@@ -1,7 +1,7 @@
 import sys
 from selenium.webdriver.common.action_chains import ActionChains
-sys.path.append('PYTHONPROJECTS/kylepom/')
-sys.path.insert(0,"C:\\Users\\kylem\\OneDrive\\Documents\\pythonProjects\\kylepom\\")
+sys.path.append('GitHub/playerzero_python/')
+sys.path.insert(0,"C:\\Users\\kylem\\OneDrive\\Documents\\GitHub\\playerzero_python")
 
 import unittest
 from time import sleep

@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0,"C:\\Users\\kylem\\OneDrive\\Documents\\pythonProjects\\kylepom\\")
+sys.path.insert(0,"C:\\Users\\kylem\\OneDrive\\Documents\\playerzero_python")
 import os
 from selenium.webdriver.common.by import By
 
